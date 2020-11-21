@@ -2,4 +2,6 @@
 
 Here I have created Bus Protocol project like UART using SystemVerilog.
 
-This projects were built on Mentor Graphics QuestaSim.
+This projects was built on Mentor Graphics QuestaSim.
+
+You can see more info in relavent project folder.
